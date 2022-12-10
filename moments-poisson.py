@@ -8,7 +8,5 @@ cred=sum(a)/len(a)
 disp=0
 otsenka=0
 otsenka=3*cred-1
-'''for x in a:
-    disp+=(x-cred)**2
-print (disp/len(a))'''
+
 print(otsenka)
